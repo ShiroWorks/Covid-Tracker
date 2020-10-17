@@ -1,5 +1,7 @@
 # React COVID Tracker
 
+[Live version](https://covid-tracker-reactjs.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
